@@ -1,2 +1,2 @@
 # Jupyter_Notes
-Getting Started with Jupyther Notebook
+Getting Started with Jupyter Notebook
